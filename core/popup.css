@@ -1,0 +1,54 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+small {
+    float: right;
+}
+
+body {
+    width: 700px;
+    color: white;
+    background: #383838;
+    background: url("https://cdn.wallpapersafari.com/19/42/6EjVl5.png") no-repeat center;
+    background-size: 155%;
+    /* background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite; */
+}
+
+#host {
+    color: #383838;
+    background: white;
+    margin-top: -30px;
+    padding: 7px;
+    font-size: 17px;
+    width: 100%;
+}
+
+#iframe {
+    width: 680px;
+    height: 400px;
+    border: 0px;
+    z-index: 9;
+}
+
+#description {
+    font-size: 35;
+    position: fixed;
+    margin-top: -400px;
+    text-align: right;
+    margin-left: 205px;
+    padding-right: 20;
+    z-index: 1;
+}
+
+#title {
+    color: white;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+}
