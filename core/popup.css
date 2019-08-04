@@ -11,8 +11,8 @@ body {
     width: 700px;
     color: white;
     background: #383838;
-    background: url("https://cdn.wallpapersafari.com/19/42/6EjVl5.png") no-repeat center;
-    background-size: 155%;
+    /* background: url("https://cdn.wallpapersafari.com/19/42/6EjVl5.png") no-repeat center;
+    background-size: 155%; */
     /* background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
     background-size: 400% 400%;
     -webkit-animation: Gradient 15s ease infinite;
