@@ -1,6 +1,6 @@
 {
     "name": "Sol4r",
-    "description": "Test the code directly via an extension!",
+    "description": "Test the code directly via a chrome extension!",
     "version": "1.0",
     "permissions": [
         "activeTab"
@@ -8,10 +8,6 @@
     "icons": {
         "16": "img/icon-16.png",
         "48": "img/icon-48.png"
-    },
-    "background": {
-        "scripts": ["js/background.js"],
-        "persistent": false
     },
     "author": "Sanix darker",
     "browser_action": {

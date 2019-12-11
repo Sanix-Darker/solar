@@ -1,5 +1,5 @@
 var port = chrome.extension.connect({
-    name: "konsola communication Communication"
+    name: "Sola communication Communication"
 });
 
 port.onMessage.addListener(function(msg) {
@@ -7,6 +7,8 @@ port.onMessage.addListener(function(msg) {
 });
 
 const HOST = [
+    //"https://freeformatter.com/",
+    //"https://db-fiddle.com/",
     "https://tio.run/#",
     "https://codesandbox.io/",
     //"https://www.codechef.com/ide",
