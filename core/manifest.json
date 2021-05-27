@@ -1,6 +1,6 @@
 {
-    "name": "Sol4r",
-    "description": "Test the code directly via an extension!",
+    "name": "SOLAR",
+    "description": "Code execution on extension!",
     "version": "1.0",
     "permissions": [
         "activeTab"
@@ -16,7 +16,7 @@
     "author": "Sanix darker",
     "browser_action": {
         "default_icon": "img/icon-48.png",
-        "default_title": "Sol4r",
+        "default_title": "SOLAR",
         "default_popup": "popup.html"
     },
     "manifest_version": 2,

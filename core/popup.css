@@ -8,7 +8,7 @@ small {
 }
 
 body {
-    width: 700px;
+    width: 800px;
     color: white;
     background: #383838;
     /* background: url("https://cdn.wallpapersafari.com/19/42/6EjVl5.png") no-repeat center;
@@ -30,8 +30,8 @@ body {
 }
 
 #iframe {
-    width: 680px;
-    height: 400px;
+    width: 700px;
+    height: auto;
     border: 0px;
     z-index: 9;
 }
