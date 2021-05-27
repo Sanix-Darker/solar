@@ -9,6 +9,6 @@ port.onMessage.addListener(function(msg) {
 var popupWindow = window.open(
     chrome.extension.getURL("core.html"),
     "SolarCore",
-    "width=780,height=590"
+    "width=780,height=590,screenX=200,screenY=200"
 );
 window.close(); // close the Chrome extension pop-up
