@@ -1,24 +1,15 @@
 {
     "name": "SOLAR",
-    "description": "Code execution on extension!",
+    "description": "Collection of code execution tools!",
     "version": "1.0",
-    "permissions": [
-        "activeTab"
-    ],
     "icons": {
-        "16": "img/icon-16.png",
-        "48": "img/icon-48.png"
+        "16": "img/icon-16.png"
     },
     "author": "Sanix darker",
     "browser_action": {
-        "default_icon": "img/icon-48.png",
+        "default_icon": "img/icon-16.png",
         "default_title": "SOLAR",
         "default_popup": "popup.html"
     },
-    "manifest_version": 2,
-    "content_scripts": [{
-        "js": ["js/background.js"],
-        "css": [],
-        "matches": ["http://*/*", "https://*/*"]
-    }]
+    "manifest_version": 2
 }
