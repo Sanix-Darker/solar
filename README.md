@@ -1,6 +1,6 @@
-<img src="core/img/logo.png" />
+<img src="core/img/l.png" />
 
-# S0l4r
+# SOLAR
 
 A Browser Extension allowing you to test your code online in one click with more than 40 tools.
 
@@ -15,7 +15,8 @@ S0l4r have a list of tools available in one pack.
 
 ### How to use it
 
-> See the <a href="https://youtu.be/993jUXx3NuY" target="_blank">DEMO VIDEO</a>
+> See the <a href="https://youtu.be/993jUXx3NuY" target="_blank">DEMO VIDEO V1</a>
+> See the <a href="https://youtu.be/LVE2s2tPSmQ" target="_blank">DEMO VIDEO V2</a>
 
 * Enable the Developer Mode a top right in your "chrome://extensions" settings page.
 * Integrate the Extension in your browser, the extension is not yet on a store so....
