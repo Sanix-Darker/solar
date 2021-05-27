@@ -1,4 +1,4 @@
-<img src="logo.png" />
+<img src="core/img/logo.png" />
 
 # S0l4r
 

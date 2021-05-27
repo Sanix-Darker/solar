@@ -73,3 +73,5 @@ const main = () => {
         document.getElementById("iframe").src = e.target.value;
     }
 }
+
+main()

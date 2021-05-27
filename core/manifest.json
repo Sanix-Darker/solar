@@ -22,7 +22,7 @@
     "manifest_version": 2,
     "content_scripts": [{
         "js": ["js/background.js"],
-        "css": ["css/style.css"],
+        "css": [],
         "matches": ["http://*/*", "https://*/*"]
     }]
 }
