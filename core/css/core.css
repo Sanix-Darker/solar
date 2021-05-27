@@ -8,12 +8,12 @@ body {
     min-width: 755px;
     min-height: 500px;
     color: white;
-    background: #383838;
+    background: #333333;
     overflow: hidden;
 }
 
 #host {
-    color: #383838;
+    color: #333333;
     background: white;
     padding: 7px;
     font-size: 17px;

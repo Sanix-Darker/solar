@@ -25,11 +25,6 @@ const HOST = [
         "link": "https://www.remoteinterview.io"
     },
     {
-        "id": 6,
-        "name": "PAIZA",
-        "link": "https://paiza.io/en"
-    },
-    {
         "id": 7,
         "name": "COMPILE-JAVA",
         "link": "https://www.compilejava.net"
@@ -118,11 +113,6 @@ const HOST = [
         "id": 24,
         "name": "PLNKR",
         "link": "http://plnkr.co"
-    },
-    {
-        "id": 25,
-        "name": "W3SCHOOLS",
-        "link": "https://www.w3schools.com/"
     },
     {
         "id": 26,
