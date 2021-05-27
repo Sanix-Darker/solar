@@ -1,5 +1,5 @@
 var port = chrome.extension.connect({
-    name: "konsola communication Communication"
+    name: "Sola communication Communication"
 });
 
 port.onMessage.addListener(function(msg) {
